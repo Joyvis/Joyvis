@@ -10,7 +10,7 @@ Os projetos estão organizados por tema e o principal deles é o **Roadmap de Es
 
 ## 🧭 Roadmap: Estruturas de Dados, Algoritmos e System Design
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50%" />
+<img align="center" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50%" />
 
 🔗 [Acessar o repositório](https://github.com/joyvis/)
 
