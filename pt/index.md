@@ -14,7 +14,7 @@ Os projetos estão organizados por tema e o principal deles é o **Roadmap de Es
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50%" />
 </p>
 
-🔗 [Acessar o repositório](https://github.com/joyvis/algobase/pt/index.md)
+🔗 [Acessar o repositório](https://github.com/joyvis/algobase/blob/main/pt/index.md)
 
 - 📚 Estruturas de Dados fundamentais  
 - ♻️ Padrões de algoritmos (Two Pointers, DFS, BFS, etc.)  
